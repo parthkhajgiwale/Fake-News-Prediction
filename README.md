@@ -1,4 +1,4 @@
-# Fake News Prediction: Dataset
+# Fake News Prediction
 
 This repository contains a dataset and code for predicting fake news using machine learning techniques. The dataset consists of news articles with corresponding labels indicating whether the article is potentially unreliable (fake news) or reliable (real news).
 
